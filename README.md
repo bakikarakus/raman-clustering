@@ -7,3 +7,7 @@ Note: Control group and in vitro fertilization group Raman spectra are used in t
 Note: If you are having trouble, feel free to send me email:
 
 muhammet.karakus@std.bogazici.edu.tr
+
+# Prerequisites
+
+- python 3.8.5
