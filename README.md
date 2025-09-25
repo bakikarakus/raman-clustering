@@ -4,7 +4,7 @@ Note: Control group and in vitro fertilization group Raman spectra are used in t
 
 2-Open the Raman General Clustering notebook and use the eps values that were found in the Raman Silhouette Score for Clustering notebook.
 
-Note: If you are having trouble, feel free to send me email:
+Note: If you are having trouble, feel free to send me an email:
 
 muhammet.karakus@std.bogazici.edu.tr
 
